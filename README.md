@@ -106,3 +106,7 @@
 
 ## Human Factors in Security : 
 
+
+# Completed/ Ongoing Research Projects
+AI Powered Automated Vulnerabilities Detection with CyberShell Solutions
+Protecting Vehicles from Cyber Attacks with Horiba Mira
