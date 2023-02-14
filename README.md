@@ -1,6 +1,4 @@
-# Research in Cybersecurity at Robert Gordon University
-
-## Team Members
+# Team Members
 
 ![AP](https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg) 
 
@@ -80,9 +78,9 @@ Dipto Arifeen : https://scholar.google.com/citations?hl=en&user=nIV0P9oAAAAJ
 
 
 
-## Research Areas
-### IoT Security : https://github.com/izakariyya/R_DNN_IoT
-### Software Security : https://github.com/softwaresec-labs
-### Network Security : https://github.com/mshsyr/
-### Vehicle Security : 
-### Human Factors in Security : 
+# Research Areas
+## IoT Security : https://github.com/izakariyya/R_DNN_IoT
+## Software Security : https://github.com/softwaresec-labs
+## Network Security : https://github.com/mshsyr/
+## Vehicle Security : 
+## Human Factors in Security : 
