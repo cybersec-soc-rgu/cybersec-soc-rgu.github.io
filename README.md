@@ -43,8 +43,7 @@
 ![common](https://user-images.githubusercontent.com/125314333/218665412-541925e2-47ef-47d0-85ad-22448d3d9b55.jpg)
 
 ## MS Mekala
-| [Google Scholar](<>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
-https://scholar.google.com/citations?hl=en&user=bw1ymskAAAAJ
+| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=bw1ymskAAAAJ>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
 
 ***************************************************************************************************************
 
