@@ -2,14 +2,19 @@
 
 ![AP](https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg) 
 
-Andrei Petrovski : <https://scholar.google.com/citations?user=fiQw0fAAAAAJ&hl=en>
+## Andrei Petrovski
+[Google Scholar](<https://scholar.google.com/citations?user=fiQw0fAAAAAJ&hl=en>) 
+ResearchGate: <https://www.researchgate.net/profile/Andrei-Petrovski>
+Worktribe: <https://rgu-repository.worktribe.com/person/152554/andrei-petrovski>
+LinkedIn: <https://www.linkedin.com/in/andrei-petrovski-2920874>
 
 ***************************************************************************************************************
 
 
 ![HK](https://user-images.githubusercontent.com/125314333/218662155-9c704521-2fed-41dd-82a8-6f33693c2dfd.png)
 
-Harsha Kalutarage : https://www.researchgate.net/profile/Harsha_Kalutarage
+## Harsha Kalutarage
+https://www.researchgate.net/profile/Harsha_Kalutarage
 
 ***************************************************************************************************************
 
