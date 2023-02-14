@@ -4,7 +4,7 @@
 
 ![AP](https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg) 
 
-Andrei Petrovski : https://scholar.google.com/citations?user=fiQw0fAAAAAJ&hl=en
+<a href "https://scholar.google.com/citations?user=fiQw0fAAAAAJ&hl=en">Andrei Petrovski</a>
 
 ***************************************************************************************************************
 
