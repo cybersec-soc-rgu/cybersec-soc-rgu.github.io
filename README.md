@@ -35,7 +35,7 @@
 ![SH](https://user-images.githubusercontent.com/125314333/218664507-01cb796c-aa31-4160-8c9c-bbb3ff71d1c4.jpg)
 
 ## Shadhi Hadjar 
-| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=zlPFWs0AAAAJ>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=zlPFWs0AAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Muhammad-Shadi-Hajar>) | [Worktribe](<>) | [LinkedIn](<>) | 
 
 ***************************************************************************************************************
 
@@ -43,7 +43,7 @@
 ![common](https://user-images.githubusercontent.com/125314333/218665412-541925e2-47ef-47d0-85ad-22448d3d9b55.jpg)
 
 ## MS Mekala
-| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=bw1ymskAAAAJ>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=bw1ymskAAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/M-S-Mekala>) | [Worktribe](<>) | [LinkedIn](<https://www.linkedin.com/in/m-s-mekala-42a940111/>) | 
 
 ***************************************************************************************************************
 
@@ -51,7 +51,7 @@
 ![UO](https://user-images.githubusercontent.com/125314333/218666240-7523f76b-6fd9-4647-80a3-496d1b22d3d6.jpg)
 
 ## Uneneibotejit Otokwala
-| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=dAH04FsAAAAJ>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=dAH04FsAAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Uneneibotejit-Otokwala>) | [Worktribe](<https://rgu-repository.worktribe.com/person/871416/uneneibotejit-otokwala>) | [LinkedIn](<https://www.linkedin.com/in/uneneibotejit-otokwala-47506a62/>) | 
 
 ***************************************************************************************************************
 
@@ -59,7 +59,7 @@
 ![SR](https://user-images.githubusercontent.com/125314333/218666769-bd42ccc6-82a7-4cfc-86e9-8822280b9838.jpg)
 
 ## Sampath Rajapaksha
-| [Google Scholar](<>) | [ResearchGate](<https://www.researchgate.net/profile/Sampath-Rajapaksha-3>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<>) | [ResearchGate](<https://www.researchgate.net/profile/Sampath-Rajapaksha-3>) | [Worktribe](<https://rgu-repository.worktribe.com/person/977537/sampath-rajapaksha-r-wasala-mudiyanselage-polwatte-gedara>) | [LinkedIn](<https://www.linkedin.com/in/sampath-rajapaksha-30476227/>) | 
 
 ***************************************************************************************************************
 
