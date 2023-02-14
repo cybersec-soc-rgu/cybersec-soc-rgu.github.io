@@ -66,7 +66,7 @@
 ![ChM](https://user-images.githubusercontent.com/125314333/218667511-bf470758-56f3-44b0-890f-bfdf4b5a1daf.jpg)
 
 ## Christopher Middleton
-| [Google Scholar](<>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<https://www.linkedin.com/in/chris-middleton-49007a206/>) | 
+| [Google Scholar](<>) | [ResearchGate](<>) | [Worktribe](<https://rgu-repository.worktribe.com/person/977443/christopher-middleton>) | [LinkedIn](<https://www.linkedin.com/in/chris-middleton-49007a206/>) | 
 
 ***************************************************************************************************************
 
