@@ -32,14 +32,6 @@
 ***************************************************************************************************************
 
 
-![SH](https://user-images.githubusercontent.com/125314333/218664507-01cb796c-aa31-4160-8c9c-bbb3ff71d1c4.jpg)
-
-## Shadhi Hadjar 
-| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=zlPFWs0AAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Muhammad-Shadi-Hajar>) | [Worktribe](<>) | [LinkedIn](<>) | 
-
-***************************************************************************************************************
-
-
 ![common](https://user-images.githubusercontent.com/125314333/218665412-541925e2-47ef-47d0-85ad-22448d3d9b55.jpg)
 
 ## MS Mekala
@@ -47,6 +39,13 @@
 
 ***************************************************************************************************************
 
+
+![SH](https://user-images.githubusercontent.com/125314333/218664507-01cb796c-aa31-4160-8c9c-bbb3ff71d1c4.jpg)
+
+## Shadhi Hadjar 
+| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=zlPFWs0AAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Muhammad-Shadi-Hajar>) | [Worktribe](<>) | [LinkedIn](<>) | 
+
+***************************************************************************************************************
 
 ![UO](https://user-images.githubusercontent.com/125314333/218666240-7523f76b-6fd9-4647-80a3-496d1b22d3d6.jpg)
 
@@ -67,7 +66,7 @@
 ![ChM](https://user-images.githubusercontent.com/125314333/218667511-bf470758-56f3-44b0-890f-bfdf4b5a1daf.jpg)
 
 ## Christopher Middleton
-| [Google Scholar](<>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<https://www.linkedin.com/in/chris-middleton-49007a206/>) | 
 
 ***************************************************************************************************************
 
@@ -75,7 +74,7 @@
 ![JS1](https://user-images.githubusercontent.com/125314333/218667728-152115a5-943c-41e3-8b91-d0561ced3232.jpg)
 
 ## Janaka Senanayake
-| [Google Scholar](<https://scholar.google.com/citations?user=ztO6SEMAAAAJ&hl=en>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<https://scholar.google.com/citations?user=ztO6SEMAAAAJ&hl=en>) | [ResearchGate](<https://www.researchgate.net/profile/Janaka-Senanayake-2>) | [Worktribe](<https://rgu-repository.worktribe.com/person/1168102/janaka-senanayake>) | [LinkedIn](<https://www.linkedin.com/in/janaka-senanayake-01059825/>) | 
 
 ***************************************************************************************************************
 
@@ -83,7 +82,7 @@
 ![DA](https://user-images.githubusercontent.com/125314333/218668067-2bc06b5e-b1c3-4fa3-9dbc-7afa6a4b0381.jpg)
 
 ## Dipto Arifeen
-| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=nIV0P9oAAAAJ>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=nIV0P9oAAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Murshedul-Arifeen>) | [Worktribe](<https://rgu-repository.worktribe.com/person/1456645/dipto-arifeen>) | [LinkedIn](<https://www.linkedin.com/in/murshedul-arifeen-dipto/>) | 
 
 ***************************************************************************************************************
 
