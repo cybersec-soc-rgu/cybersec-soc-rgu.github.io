@@ -11,7 +11,7 @@
 ![HK](https://user-images.githubusercontent.com/125314333/218662155-9c704521-2fed-41dd-82a8-6f33693c2dfd.png)
 
 ## Harsha Kalutarage
-| [Google Scholar](<>) | [ResearchGate](<https://www.researchgate.net/profile/Harsha_Kalutarage>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<>) | [ResearchGate](<https://www.researchgate.net/profile/Harsha_Kalutarage>) | [Worktribe](<https://rgu-repository.worktribe.com/person/171481/harsha-kalutarage>) | [LinkedIn](<https://www.linkedin.com/in/harshakumaralk/>) | 
 
 ***************************************************************************************************************
 
@@ -19,7 +19,7 @@
 ![HA](https://user-images.githubusercontent.com/125314333/218663500-2bd561e6-d769-49d3-bd08-549b91919b4c.jpg)
 
 ## Hatem Ahriz
-| [Google Scholar](<>) | [ResearchGate](<https://www.researchgate.net/profile/Hatem-Ahriz>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<>) | [ResearchGate](<https://www.researchgate.net/profile/Hatem-Ahriz>) | [Worktribe](<https://rgu-repository.worktribe.com/person/77282/hatem-ahriz>) | [LinkedIn](<https://www.linkedin.com/in/hatem-ahriz/>) | 
 
 ***************************************************************************************************************
 
@@ -27,7 +27,7 @@
 ![CM](https://user-images.githubusercontent.com/125314333/218664211-72c5ae1a-2e68-4632-890b-02d0b54029f5.jpg)
 
 ## Christopher McDermott
-| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=XEdIws4AAAAJ>) | [ResearchGate](<>) | [Worktribe](<>) | [LinkedIn](<>) | 
+| [Google Scholar](<https://scholar.google.com/citations?hl=en&user=XEdIws4AAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Christopher-Mcdermott-4>) | [Worktribe](<https://rgu-repository.worktribe.com/person/109136/christopher-mcdermott>) | [LinkedIn](<https://www.linkedin.com/in/christopher-d-mcdermott-b4549b46/>) | 
 
 ***************************************************************************************************************
 
