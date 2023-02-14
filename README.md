@@ -91,6 +91,7 @@
 # Research Areas
 
 ## IoT Security : 
+
 <https://github.com/izakariyya/R_DNN_IoT>
 
 <https://github.com/ArifeenDipto>
@@ -106,7 +107,17 @@
 ## Vehicle Security : 
 
 
-## Human Factors in Security : 
+## Human Factors in Security 
+### Security by Design, Personas and Threat Modelling
+### Security Behaviour: Trust, Influence, Error and Crime
+### Usable Security and Situational Awareness
+
+
+## Machine Learning for Cybersecurity
+### Exploits against humans: Phishing, Social Engineering
+### Misinformation (fake news, deep fakes) and trustworthy content on the Internet
+### Threat Detection: IoT Botnet and DDoS
+
 
 
 # Completed/ Ongoing Research Projects
