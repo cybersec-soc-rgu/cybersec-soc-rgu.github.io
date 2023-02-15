@@ -1,3 +1,63 @@
+# Research Areas
+
+## IoT Security : 
+
+IoT Securirity monitoring
+
+<https://github.com/izakariyya/R_DNN_IoT>
+
+<https://github.com/ArifeenDipto>
+
+
+## Software Security : 
+
+Source code vulnerability detection
+
+Secure software development
+
+Secure Android app development
+
+<https://github.com/softwaresec-labs>
+
+
+## Network Security : 
+
+Securing wireless medical sensor networks
+
+<https://github.com/mshsyr>
+
+## Vehicle Security : 
+
+Securing in-vehicular networks
+
+## Human Factors in Security 
+
+Security by Design, Personas and Threat Modelling
+
+Security Behaviour: Trust, Influence, Error and Crime
+
+Usable Security and Situational Awareness
+
+
+## Machine Learning for Cybersecurity
+
+Exploits against humans: Phishing, Social Engineering
+
+Misinformation (fake news, deep fakes) and trustworthy content on the Internet
+
+Threat Detection: IoT Botnet and DDoS
+
+
+***************************************************************************************************************
+
+# Completed/ Ongoing Research Projects
+AI Powered Automated Vulnerabilities Detection with CyberShell Solutions
+
+Protecting Vehicles from Cyber Attacks with Horiba Mira
+
+
+***************************************************************************************************************
+
 # Team Members
 
 ![AP](https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg) 
@@ -85,49 +145,3 @@
 | [ORCID](<https://orcid.org/0000-0002-8010-7435>) | [Google Scholar](<https://scholar.google.com/citations?hl=en&user=nIV0P9oAAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Murshedul-Arifeen>) | [Worktribe](<https://rgu-repository.worktribe.com/person/1456645/dipto-arifeen>) | [LinkedIn](<https://www.linkedin.com/in/murshedul-arifeen-dipto/>) | 
 
 ***************************************************************************************************************
-
-
-
-# Research Areas
-
-## IoT Security : 
-
-<https://github.com/izakariyya/R_DNN_IoT>
-
-<https://github.com/ArifeenDipto>
-
-
-## Software Security : 
-<https://github.com/softwaresec-labs>
-
-
-## Network Security : 
-<https://github.com/mshsyr>
-
-## Vehicle Security : 
-
-
-## Human Factors in Security 
-
-Security by Design, Personas and Threat Modelling
-
-Security Behaviour: Trust, Influence, Error and Crime
-
-Usable Security and Situational Awareness
-
-
-## Machine Learning for Cybersecurity
-
-Exploits against humans: Phishing, Social Engineering
-
-Misinformation (fake news, deep fakes) and trustworthy content on the Internet
-
-Threat Detection: IoT Botnet and DDoS
-
-
-
-
-# Completed/ Ongoing Research Projects
-AI Powered Automated Vulnerabilities Detection with CyberShell Solutions
-
-Protecting Vehicles from Cyber Attacks with Horiba Mira
