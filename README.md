@@ -60,7 +60,7 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 
 # Team Members
 
-![AP](https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg) 
+![AP](https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg | width=200) 
 
 ## Andrei Petrovski
 | [ORCID](<https://orcid.org/0000-0002-0987-2791>) | [Google Scholar](<https://scholar.google.com/citations?user=fiQw0fAAAAAJ&hl=en>) | [ResearchGate](<https://www.researchgate.net/profile/Andrei-Petrovski>) | [Worktribe](<https://rgu-repository.worktribe.com/person/152554/andrei-petrovski>) | [LinkedIn](<https://www.linkedin.com/in/andrei-petrovski-2920874>) | 
