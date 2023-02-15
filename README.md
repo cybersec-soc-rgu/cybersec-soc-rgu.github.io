@@ -60,7 +60,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 
 # Team Members
 
-<!-- ![AP](https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg)  -->
 <img src="https://user-images.githubusercontent.com/125314333/218660933-aff958e4-31ec-429b-a1e5-fec89252176c.jpg" width="200" height="200" />
 
 ## Andrei Petrovski
@@ -69,7 +68,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![HK](https://user-images.githubusercontent.com/125314333/218662155-9c704521-2fed-41dd-82a8-6f33693c2dfd.png) -->
 <img src="https://user-images.githubusercontent.com/125314333/218662155-9c704521-2fed-41dd-82a8-6f33693c2dfd.png" width="200" height="200" />
 
 ## Harsha Kalutarage
@@ -78,7 +76,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![HA](https://user-images.githubusercontent.com/125314333/218663500-2bd561e6-d769-49d3-bd08-549b91919b4c.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218663500-2bd561e6-d769-49d3-bd08-549b91919b4c.jpg" width="200" height="200" />
 
 ## Hatem Ahriz
@@ -87,7 +84,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![CM](https://user-images.githubusercontent.com/125314333/218664211-72c5ae1a-2e68-4632-890b-02d0b54029f5.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218664211-72c5ae1a-2e68-4632-890b-02d0b54029f5.jpg" width="200" height="200" />
 
 ## Christopher McDermott
@@ -96,7 +92,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![common](https://user-images.githubusercontent.com/125314333/218665412-541925e2-47ef-47d0-85ad-22448d3d9b55.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218665412-541925e2-47ef-47d0-85ad-22448d3d9b55.jpg" width="200" height="200" />
 
 ## MS Mekala
@@ -105,7 +100,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![SH](https://user-images.githubusercontent.com/125314333/218664507-01cb796c-aa31-4160-8c9c-bbb3ff71d1c4.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218664507-01cb796c-aa31-4160-8c9c-bbb3ff71d1c4.jpg" width="200" height="200" />
 
 ## Shadhi Hadjar 
@@ -113,7 +107,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 
 ***************************************************************************************************************
 
-<!-- ![UO](https://user-images.githubusercontent.com/125314333/218666240-7523f76b-6fd9-4647-80a3-496d1b22d3d6.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218666240-7523f76b-6fd9-4647-80a3-496d1b22d3d6.jpg" width="200" height="200" />
 
 ## Uneneibotejit Otokwala
@@ -122,7 +115,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![SR](https://user-images.githubusercontent.com/125314333/218666769-bd42ccc6-82a7-4cfc-86e9-8822280b9838.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218666769-bd42ccc6-82a7-4cfc-86e9-8822280b9838.jpg" width="200" height="200" />
 
 ## Sampath Rajapaksha
@@ -131,7 +123,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![ChM](https://user-images.githubusercontent.com/125314333/218667511-bf470758-56f3-44b0-890f-bfdf4b5a1daf.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218667511-bf470758-56f3-44b0-890f-bfdf4b5a1daf.jpg" width="200" height="200" />
 
 ## Christopher Middleton
@@ -140,7 +131,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![JS1](https://user-images.githubusercontent.com/125314333/218667728-152115a5-943c-41e3-8b91-d0561ced3232.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218667728-152115a5-943c-41e3-8b91-d0561ced3232.jpg" width="200" height="200" />
 
 ## Janaka Senanayake
@@ -149,7 +139,6 @@ Protecting Vehicles from Cyber Attacks with Horiba Mira
 ***************************************************************************************************************
 
 
-<!-- ![DA](https://user-images.githubusercontent.com/125314333/218668067-2bc06b5e-b1c3-4fa3-9dbc-7afa6a4b0381.jpg) -->
 <img src="https://user-images.githubusercontent.com/125314333/218668067-2bc06b5e-b1c3-4fa3-9dbc-7afa6a4b0381.jpg" width="200" height="200" />
 
 ## Dipto Arifeen
