@@ -5,26 +5,33 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 ## IoT Security : 
 
-#### Topology for Preserving Feature Correlation in Tabular Synthetic Data
+#### Topology for Preserving Feature Correlation in Tabular Synthetic Data | [Read Paper](<https://ieeexplore.ieee.org/document/9970505>) |
 15th International Conference on Security of Information and Networks (SIN) - 2022
+
 
 #### Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)
 14th International Conference on Security of Information and Networks (SIN) - 2021
 
+
 #### Resource efficient boosting method for IoT security monitoring
 IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021
+
 
 #### Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks
 8th ACM on Cyber-Physical System Security Workshop - 2022
 
+
 #### Memory efficient federated deep learning for intrusion detection in IoT networks
 AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021
+
 
 #### Resource Efficient Federated Deep Learning for IoT Security Monitoring
 Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT - 2022
 
+
 #### Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm.
 16th International security and cryptography conference (SECRYPT) - 2019
+
 
 
 ## Network Security : 
@@ -32,20 +39,26 @@ Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADI
 #### DQR: a double Q learning multi agent routing protocol for wireless medical sensor network
 Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022
 
+
 #### A Robust Exploration Strategy in Reinforcement Learning Based on Temporal Difference Error
 AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, AI - 2022
+
 
 #### A survey on wireless body area networks: Architecture, security challenges and research opportunities
 Computers & Security - 2021
 
+
 ### TrustMod: A Trust Management Module For NS-3 Simulator
 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2021
+
 
 #### Ltms: A lightweight trust management system for wireless medical sensor networks
 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) -2020
 
+
 #### Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks
 IEEE Conference on Communications and Network Security (CNS) - 2020
+
 
 
 ## Software Security : 
@@ -53,11 +66,14 @@ IEEE Conference on Communications and Network Security (CNS) - 2020
 #### Android source code vulnerability detection: a systematic literature review 
 ACM Computing Surveys - 2023
 
+
 #### Developing secured Android applications by mitigating code vulnerabilities with machine learning 
 ACM on Asia Conference on Computer and Communications Security (AsiaCCS) - 2022
 
+
 #### Android Mobile Malware Detection Using Machine Learning: A Systematic Review
 MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021
+
 
 
 ## Vehicle Security : 
@@ -65,11 +81,14 @@ MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Usin
 #### AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey
 ACM Computing Surveys - 2023
 
+
 #### Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security
 14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022
 
+
 #### Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus
 3rd ACM Computer Science in Cars Symposium - 2019
+
 
 
 ## Human Factors in Security 
