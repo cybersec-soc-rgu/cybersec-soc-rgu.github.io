@@ -5,7 +5,7 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 ## IoT Security : 
 
-#### Topology for Preserving Feature Correlation in Tabular Synthetic Data | [Read Paper](<https://ieeexplore.ieee.org/document/9970505>) |
+#### Topology for Preserving Feature Correlation in Tabular Synthetic Data |[Read](<https://ieeexplore.ieee.org/document/9970505>)|
 15th International Conference on Security of Information and Networks (SIN) - 2022
 
 
