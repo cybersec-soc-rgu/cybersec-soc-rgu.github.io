@@ -12,6 +12,14 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 14th International Conference on Security of Information and Networks (SIN) - 2021
 
 
+#### [Improving intrusion detection through training data augmentation](<https://ieeexplore.ieee.org/document/9699293>)
+14th International Conference on Security of Information and Networks (SIN) - 2021
+
+
+#### [Effective detection of cyber attack in a cyber-physical power grid system](<https://link.springer.com/chapter/10.1007/978-3-030-73100-7_57>)
+Future of information and communication conference (FICC) - 2021
+
+
 #### [Resource efficient boosting method for IoT security monitoring](<https://ieeexplore.ieee.org/abstract/document/9369620>)
 IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021
 
