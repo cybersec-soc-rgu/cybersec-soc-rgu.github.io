@@ -100,11 +100,6 @@ Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022
 International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - 2019
 
 
-
-#### Currently, we are accepting PhD students to carry out research projects on cybersecurity. 
-#### If you have a Bachelor's degree in Computer Science related field (UK equivalent 1st or 2nd upper) and a strong interest in Cyber Security, do not hesitate to contact the relavant team member.
-
-
 ***************************************************************************************************************
 
 # Completed/ Ongoing Research Projects
