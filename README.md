@@ -92,7 +92,7 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 ## Completed/ Ongoing Research Projects
 
-* **CyberShell Solutions - AI Powered Automated Vulnerabilities Detection | [Link](<https://cybershellsol.com>) |**
+* **CyberShell Solutions - AI Powered Automated Vulnerabilities Detection** | [Link](<https://cybershellsol.com>) |
 
 * **Horiba Mira - Protecting Vehicles from Cyber Attacks | [Link](<https://www.horiba-mira.com>) |**
 
