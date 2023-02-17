@@ -22,7 +22,7 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 * **[Resource efficient boosting method for IoT security monitoring](<https://ieeexplore.ieee.org/abstract/document/9369620>)** - *IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021*
 
 
-* **[Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)** - 8th ACM on Cyber-Physical System Security Workshop - 2022*
+* **[Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)** - *8th ACM on Cyber-Physical System Security Workshop - 2022*
 
 
 * **[Memory efficient federated deep learning for intrusion detection in IoT networks](<https://ceur-ws.org/Vol-3125/paper7.pdf>)** - *AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021*
