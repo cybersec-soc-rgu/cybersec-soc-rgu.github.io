@@ -150,7 +150,7 @@ International Conference on Software, Telecommunications and Computer Networks (
 
 ## Shadhi Hadjar 
 
-<img src="https://user-images.githubusercontent.com/125314333/218664507-01cb796c-aa31-4160-8c9c-bbb3ff71d1c4.jpg" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/125314333/219666241-8adb45ff-6fe6-4a87-b4ad-b405be3bf393.JPG" width="200" height="200" />
 
 
 | [ORCID](<>) | [Google Scholar](<https://scholar.google.com/citations?hl=en&user=zlPFWs0AAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/Muhammad-Shadi-Hajar>) | [Worktribe](<>) | [LinkedIn](<>) | 
@@ -177,7 +177,7 @@ International Conference on Software, Telecommunications and Computer Networks (
 
 ## MS Mekala
 
-<img src="https://user-images.githubusercontent.com/125314333/218665412-541925e2-47ef-47d0-85ad-22448d3d9b55.jpg" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/125314333/219665730-dd82accf-bac9-4c5c-8999-e998fcc7ec42.jpg" width="200" height="200" />
 
 
 | [ORCID](<>) | [Google Scholar](<https://scholar.google.com/citations?hl=en&user=bw1ymskAAAAJ>) | [ResearchGate](<https://www.researchgate.net/profile/M-S-Mekala>) | [Worktribe](<>) | [LinkedIn](<https://www.linkedin.com/in/m-s-mekala-42a940111/>) | 
