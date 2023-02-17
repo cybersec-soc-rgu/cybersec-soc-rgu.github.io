@@ -1,48 +1,86 @@
-# Research Areas
+# Research Areas and Publications
 
 Our research areas overlap with cybersecurity and artificial intelligance. 
 
+
 ## IoT Security : 
 
-IoT Securirity monitoring
+#### Topology for Preserving Feature Correlation in Tabular Synthetic Data
+15th International Conference on Security of Information and Networks (SIN) - 2022
 
+#### Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)
+14th International Conference on Security of Information and Networks (SIN) - 2021
 
-## Software Security : 
+#### Resource efficient boosting method for IoT security monitoring
+IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021
 
-Source code vulnerability detection
+#### Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks
+8th ACM on Cyber-Physical System Security Workshop - 2022
 
-Secure software development
+#### Memory efficient federated deep learning for intrusion detection in IoT networks
+AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021
 
-Secure Android app development
+#### Resource Efficient Federated Deep Learning for IoT Security Monitoring
+Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT - 2022
 
-
+#### Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm.
+16th International security and cryptography conference (SECRYPT) - 2019
 
 
 ## Network Security : 
 
-Securing wireless medical sensor networks
+#### DQR: a double Q learning multi agent routing protocol for wireless medical sensor network
+Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022
+
+#### A Robust Exploration Strategy in Reinforcement Learning Based on Temporal Difference Error
+AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, AI - 2022
+
+#### A survey on wireless body area networks: Architecture, security challenges and research opportunities
+Computers & Security - 2021
+
+### TrustMod: A Trust Management Module For NS-3 Simulator
+IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2021
+
+#### Ltms: A lightweight trust management system for wireless medical sensor networks
+IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) -2020
+
+#### Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks
+IEEE Conference on Communications and Network Security (CNS) - 2020
+
+
+## Software Security : 
+
+#### Android source code vulnerability detection: a systematic literature review 
+ACM Computing Surveys - 2023
+
+#### Developing secured Android applications by mitigating code vulnerabilities with machine learning 
+ACM on Asia Conference on Computer and Communications Security (AsiaCCS) - 2022
+
+#### Android Mobile Malware Detection Using Machine Learning: A Systematic Review
+MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021
 
 
 ## Vehicle Security : 
 
-Securing in-vehicular networks
+#### AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey
+ACM Computing Surveys - 2023
+
+#### Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security
+14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022
+
+#### Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus
+3rd ACM Computer Science in Cars Symposium - 2019
+
 
 ## Human Factors in Security 
 
-Security by Design, Personas and Threat Modelling
-
-Security Behaviour: Trust, Influence, Error and Crime
-
-Usable Security and Situational Awareness
+#### Dimensions of ‘socio’vulnerabilities of advanced persistent threats
+International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - 2019
 
 
-## Machine Learning for Cybersecurity
+#### Replacing Human Input in Spam Email Detection Using Deep Learning
+Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022
 
-Exploits against humans: Phishing, Social Engineering
-
-Misinformation (fake news, deep fakes) and trustworthy content on the Internet
-
-Threat Detection: IoT Botnet and DDoS
 
 
 #### Currently, we are accepting PhD students to carry out research projects on cybersecurity. 
