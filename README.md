@@ -130,6 +130,22 @@ International Conference on Software, Telecommunications and Computer Networks (
 
 # Team Members
 
+
+| Hatem Ahriz  | Dipto Arifeen | Shadhi Hadjar |
+| ------------- | ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/125314333/218663500-2bd561e6-d769-49d3-bd08-549b91919b4c.jpg" width="125" height="125" />  | <img src="https://user-images.githubusercontent.com/125314333/218668067-2bc06b5e-b1c3-4fa3-9dbc-7afa6a4b0381.jpg" width="125" height="125" />  | <img src="https://user-images.githubusercontent.com/125314333/219666241-8adb45ff-6fe6-4a87-b4ad-b405be3bf393.JPG" width="125" height="125" />
+|[Email](<mailto:h.ahriz@rgu.ac.uk>) [ORCID](<https://orcid.org/0000-0002-1389-3886>) | [Email](<mailto:h.ahriz@rgu.ac.uk>) [ORCID](<https://orcid.org/0000-0002-8010-7435>)| [Email](<mailto:h.ahriz@rgu.ac.uk>) [ORCID](<>)| 
+
+[Google Scholar](<>) [ResearchGate](<https://www.researchgate.net/profile/Hatem-Ahriz>)| [ORCID](<https://orcid.org/0000-0002-8010-7435>) [Google Scholar](<https://scholar.google.com/citations?hl=en&user=nIV0P9oAAAAJ>) [ResearchGate](<https://www.researchgate.net/profile/Murshedul-Arifeen>) |
+
+
+
+
+
+
+|     | [LinkedIn](<https://www.linkedin.com/in/murshedul-arifeen-dipto/>) |   |
+| ------------- | ------------- |
+
 ## Hatem Ahriz
 
 <img src="https://user-images.githubusercontent.com/125314333/218663500-2bd561e6-d769-49d3-bd08-549b91919b4c.jpg" width="200" height="200" />
