@@ -63,7 +63,7 @@ Threat Detection: IoT Botnet and DDoS
 
 #### Identifying enhanced mechanisms to develop secure mobile applications | [GitHub](<https://github.com/softwaresec-labs>) | 
 
-#### Iot-Based Inferential Measurement for Asset Integrity | [GitHub](<https://github.com/ArifeenDipto>) | 
+#### IoT based Inferential Measurement System for Asset Integrity and Security | [GitHub](<https://github.com/ArifeenDipto>) | 
 
 
 ***************************************************************************************************************
