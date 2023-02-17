@@ -1,8 +1,11 @@
-# Research Areas and Publications
+# Cybersecurity Research at Robert Gordon University
+
+
+## Research Areas and Publications
 
 Our research areas overlap with cybersecurity and artificial intelligance. 
 
-## IoT Security : 
+### IoT Security : 
 
 #### [Topology for Preserving Feature Correlation in Tabular Synthetic Data](<https://ieeexplore.ieee.org/document/9970505>)
 15th International Conference on Security of Information and Networks (SIN) - 2022
@@ -41,7 +44,7 @@ Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADI
 
 
 
-## Network Security : 
+### Network Security : 
 
 #### [DQR: a double Q learning multi agent routing protocol for wireless medical sensor network](<https://link.springer.com/chapter/10.1007/978-3-031-25538-0_32>)
 Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022
@@ -68,7 +71,7 @@ IEEE Conference on Communications and Network Security (CNS) - 2020
 
 
 
-## Software Security : 
+### Software Security : 
 
 #### [Android source code vulnerability detection: a systematic literature review](<https://dl.acm.org/doi/10.1145/3556974>)
 ACM Computing Surveys - 2023
@@ -83,7 +86,7 @@ MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Usin
 
 
 
-## Vehicle Security : 
+### Vehicle Security : 
 
 #### [AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)
 ACM Computing Surveys - 2023
@@ -98,7 +101,7 @@ ACM Computing Surveys - 2023
 
 
 
-## Human Factors in Security 
+### Human Factors in Security 
 
 #### [Replacing Human Input in Spam Email Detection Using Deep Learning](<https://link.springer.com/chapter/10.1007/978-3-031-05643-7_25>)
 Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022
@@ -110,7 +113,8 @@ International Conference on Software, Telecommunications and Computer Networks (
 
 ***************************************************************************************************************
 
-# Completed/ Ongoing Research Projects
+## Completed/ Ongoing Research Projects
+
 #### AI Powered Automated Vulnerabilities Detection with CyberShell Solutions | [GitHub](<https://github.com/cybersec-soc-rgu>) | 
 
 #### Towards a Robust, Effective and Resource Efficient Machine Learning Technique for IoT Security Monitoring | [GitHub](<https://github.com/izakariyya/R_DNN_IoT>) |
@@ -128,7 +132,7 @@ International Conference on Software, Telecommunications and Computer Networks (
 
 ***************************************************************************************************************
 
-# Team Members
+## Team Members
 
 
 | Hatem Ahriz  | Dipto Arifeen | Shadhi Hadjar |
