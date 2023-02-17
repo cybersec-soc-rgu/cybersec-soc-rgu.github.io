@@ -13,31 +13,25 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 * **[Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)](<https://ieeexplore.ieee.org/document/9699232>)** - 14th International Conference on Security of Information and Networks (SIN) - 2021*
 
 
-#### [Improving intrusion detection through training data augmentation](<https://ieeexplore.ieee.org/document/9699293>) - 14th International Conference on Security of Information and Networks (SIN) - 2021
+* **[Improving intrusion detection through training data augmentation](<https://ieeexplore.ieee.org/document/9699293>)** - 14th International Conference on Security of Information and Networks (SIN) - 2021*
 
 
-#### [Effective detection of cyber attack in a cyber-physical power grid system](<https://link.springer.com/chapter/10.1007/978-3-030-73100-7_57>)
-Future of information and communication conference (FICC) - 2021
+* **[Effective detection of cyber attack in a cyber-physical power grid system](<https://link.springer.com/chapter/10.1007/978-3-030-73100-7_57>)** - Future of information and communication conference (FICC) - 2021*
 
 
-#### [Resource efficient boosting method for IoT security monitoring](<https://ieeexplore.ieee.org/abstract/document/9369620>)
-IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021
+* **[Resource efficient boosting method for IoT security monitoring](<https://ieeexplore.ieee.org/abstract/document/9369620>)** - IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021*
 
 
-#### [Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)
-8th ACM on Cyber-Physical System Security Workshop - 2022
+* **[Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)** - 8th ACM on Cyber-Physical System Security Workshop - 2022*
 
 
-#### [Memory efficient federated deep learning for intrusion detection in IoT networks](<https://ceur-ws.org/Vol-3125/paper7.pdf>)
-AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021
+* **[Memory efficient federated deep learning for intrusion detection in IoT networks](<https://ceur-ws.org/Vol-3125/paper7.pdf>)** - AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021*
 
 
-#### [Resource Efficient Federated Deep Learning for IoT Security Monitoring](<https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6>)
-Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT - 2022
+* **[Resource Efficient Federated Deep Learning for IoT Security Monitoring](<https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6>)** - Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT - 2022*
 
 
-#### [Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm](<https://rgu-repository.worktribe.com/output/401052>)
-16th International security and cryptography conference (SECRYPT) - 2019
+* **[Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm](<https://rgu-repository.worktribe.com/output/401052>)** - 16th International security and cryptography conference (SECRYPT) - 2019*
 
 
 
