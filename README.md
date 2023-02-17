@@ -7,10 +7,10 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 ### IoT Security : 
 
-#### [Topology for Preserving Feature Correlation in Tabular Synthetic Data](<https://ieeexplore.ieee.org/document/9970505>) - 15th International Conference on Security of Information and Networks (SIN) - 2022
+* **[Topology for Preserving Feature Correlation in Tabular Synthetic Data](<https://ieeexplore.ieee.org/document/9970505>)** - *15th International Conference on Security of Information and Networks (SIN) - 2022*
 
 
-#### [Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)](<https://ieeexplore.ieee.org/document/9699232>) - 14th International Conference on Security of Information and Networks (SIN) - 2021
+* **[Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)](<https://ieeexplore.ieee.org/document/9699232>)** - 14th International Conference on Security of Information and Networks (SIN) - 2021*
 
 
 #### [Improving intrusion detection through training data augmentation](<https://ieeexplore.ieee.org/document/9699293>) - 14th International Conference on Security of Information and Networks (SIN) - 2021
