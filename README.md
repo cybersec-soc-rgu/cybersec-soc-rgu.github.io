@@ -7,10 +7,6 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 IoT Securirity monitoring
 
 
-
-<https://github.com/ArifeenDipto>
-
-
 ## Software Security : 
 
 Source code vulnerability detection
@@ -61,9 +57,13 @@ Threat Detection: IoT Botnet and DDoS
 
 #### A Reliable Trust-Aware Reinforcement Learning Based Routing Protocol for Wireless Medical Sensor Networks | [GitHub](<https://github.com/mshsyr>) |
 
+#### Otokwala??? | [GitHub](<https://github.com/cybersec-soc-rgu>) | 
+
 #### Protecting Vehicles from Cyber Attacks with Horiba Mira | [GitHub](<https://github.com/cybersec-soc-rgu>) | 
 
 #### Identifying enhanced mechanisms to develop secure mobile applications | [GitHub](<https://github.com/softwaresec-labs>) | 
+
+#### Iot-Based Inferential Measurement for Asset Integrity | [GitHub](<https://github.com/ArifeenDipto>) | 
 
 
 ***************************************************************************************************************
