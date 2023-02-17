@@ -92,21 +92,21 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 ## Completed/ Ongoing Research Projects
 
-#### CyberShell Solutions - AI Powered Automated Vulnerabilities Detection | [Link](<https://cybershellsol.com>) |
+* **CyberShell Solutions - AI Powered Automated Vulnerabilities Detection | [Link](<https://cybershellsol.com>) |**
 
-#### Horiba Mira - Protecting Vehicles from Cyber Attacks | [Link](<https://www.horiba-mira.com>) |
+* **Horiba Mira - Protecting Vehicles from Cyber Attacks | [Link](<https://www.horiba-mira.com>) |**
 
-#### Towards a Robust, Effective and Resource Efficient Machine Learning Technique for IoT Security Monitoring | [GitHub](<https://github.com/izakariyya/R_DNN_IoT>) |
+* **Towards a Robust, Effective and Resource Efficient Machine Learning Technique for IoT Security Monitoring | [GitHub](<https://github.com/izakariyya/R_DNN_IoT>) |*
 
-#### A Reliable Trust-Aware Reinforcement Learning Based Routing Protocol for Wireless Medical Sensor Networks | [GitHub](<https://github.com/mshsyr>) |
+* **A Reliable Trust-Aware Reinforcement Learning Based Routing Protocol for Wireless Medical Sensor Networks | [GitHub](<https://github.com/mshsyr>) |*
 
-#### Effective Detection of Cyber-attacks against IoTs in Critical Infrastructures | [GitHub](<https://github.com/cybersec-soc-rgu>) | 
+* **Effective Detection of Cyber-attacks against IoTs in Critical Infrastructures | [GitHub](<https://github.com/cybersec-soc-rgu>) |* 
 
-#### Protecting Vehicles from Cyber Attacks| [GitHub](<https://github.com/sampathrajapaksha/LSTM_Word2Vec>) | 
+* **Protecting Vehicles from Cyber Attacks| [GitHub](<https://github.com/sampathrajapaksha/LSTM_Word2Vec>) |* 
 
-#### Identifying enhanced mechanisms to develop secure mobile applications | [GitHub](<https://github.com/softwaresec-labs>) | 
+* **Identifying enhanced mechanisms to develop secure mobile applications | [GitHub](<https://github.com/softwaresec-labs>) |* 
 
-#### IoT based Inferential Measurement System for Asset Integrity and Security | [GitHub](<https://github.com/ArifeenDipto>) | 
+* **IoT based Inferential Measurement System for Asset Integrity and Security | [GitHub](<https://github.com/ArifeenDipto>) |* 
 
 
 ***************************************************************************************************************
