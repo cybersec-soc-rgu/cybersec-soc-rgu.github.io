@@ -50,7 +50,7 @@ Misinformation (fake news, deep fakes) and trustworthy content on the Internet
 Threat Detection: IoT Botnet and DDoS
 
 
-## Currently, we are accepting PhD students to carry out a research project on cybersecurity. If you have a Bachelor's degree in Computer Science related field (UK equivalent 1st or 2nd upper) and a strong interest in Cyber Security, do not hesitate to contact the relavant team member.
+### Currently, we are accepting PhD students to carry out a research project on cybersecurity. If you have a Bachelor's degree in Computer Science related field (UK equivalent 1st or 2nd upper) and a strong interest in Cyber Security, do not hesitate to contact the relavant team member.
 
 
 ***************************************************************************************************************
