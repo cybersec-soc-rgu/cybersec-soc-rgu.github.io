@@ -115,9 +115,9 @@ International Conference on Software, Telecommunications and Computer Networks (
 
 ## Completed/ Ongoing Research Projects
 
-#### CyberShell Solutions - AI Powered Automated Vulnerabilities Detection | [Link](<https://cybershellsol.com>)
+#### CyberShell Solutions - AI Powered Automated Vulnerabilities Detection | [Link](<https://cybershellsol.com>) |
 
-#### Horiba Mira - Protecting Vehicles from Cyber Attacks | [Link](<https://www.horiba-mira.com>)
+#### Horiba Mira - Protecting Vehicles from Cyber Attacks | [Link](<https://www.horiba-mira.com>) |
 
 #### Towards a Robust, Effective and Resource Efficient Machine Learning Technique for IoT Security Monitoring | [GitHub](<https://github.com/izakariyya/R_DNN_IoT>) |
 
