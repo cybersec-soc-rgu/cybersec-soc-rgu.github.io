@@ -6,7 +6,7 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 IoT Securirity monitoring
 
-<https://github.com/izakariyya/R_DNN_IoT>
+
 
 <https://github.com/ArifeenDipto>
 
@@ -19,14 +19,13 @@ Secure software development
 
 Secure Android app development
 
-<https://github.com/softwaresec-labs>
+
 
 
 ## Network Security : 
 
 Securing wireless medical sensor networks
 
-<https://github.com/mshsyr>
 
 ## Vehicle Security : 
 
@@ -56,9 +55,15 @@ Threat Detection: IoT Botnet and DDoS
 ***************************************************************************************************************
 
 # Completed/ Ongoing Research Projects
-AI Powered Automated Vulnerabilities Detection with CyberShell Solutions
+#### AI Powered Automated Vulnerabilities Detection with CyberShell Solutions | [GitHub](<https://github.com/cybersec-soc-rgu>) | 
 
-Protecting Vehicles from Cyber Attacks with Horiba Mira
+#### Towards a Robust, Effective and Resource Efficient Machine Learning Technique for IoT Security Monitoring | [GitHub](<https://github.com/izakariyya/R_DNN_IoT>) |
+
+#### A Reliable Trust-Aware Reinforcement Learning Based Routing Protocol for Wireless Medical Sensor Networks | [GitHub](<https://github.com/mshsyr>) |
+
+#### Protecting Vehicles from Cyber Attacks with Horiba Mira | [GitHub](<https://github.com/cybersec-soc-rgu>) | 
+
+#### Identifying enhanced mechanisms to develop secure mobile applications | [GitHub](<https://github.com/softwaresec-labs>) | 
 
 
 ***************************************************************************************************************
