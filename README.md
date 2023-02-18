@@ -24,10 +24,15 @@
 * **[Topology for Preserving Feature Correlation in Tabular Synthetic Data](<https://ieeexplore.ieee.org/document/9970505>)** in *15th International Conference on Security of Information and Networks (SIN) - 2022*
 
 
+* **[Framework for Detecting APTs Based on Steps Analysis and Correlation](<https://link.springer.com/chapter/10.1007/978-3-030-97166-3_6>)** in *Springer Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control - 2022*
+
+
 * **[Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)](<https://ieeexplore.ieee.org/document/9699232>)** in *14th International Conference on Security of Information and Networks (SIN) - 2021*
 
 
 * **[Improving intrusion detection through training data augmentation](<https://ieeexplore.ieee.org/document/9699293>)** in *14th International Conference on Security of Information and Networks (SIN) - 2021*
+
+* **[Comparative Study of Malware Detection Techniques for Industrial Control Systems](<https://ieeexplore.ieee.org/abstract/document/9699167>)** in *14th International Conference on Security of Information and Networks (SIN) - 2021*
 
 
 * **[Effective detection of cyber attack in a cyber-physical power grid system](<https://link.springer.com/chapter/10.1007/978-3-030-73100-7_57>)** in *Future of information and communication conference (FICC) - 2021*
@@ -37,6 +42,18 @@
 
 
 * **[Memory efficient federated deep learning for intrusion detection in IoT networks](<https://ceur-ws.org/Vol-3125/paper7.pdf>)** in *AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021*
+
+
+* **[Detecting malicious signal manipulation in smart grids using intelligent analysis of contextual data](<https://dl.acm.org/doi/abs/10.1145/3433174.3433613>)** in *13th International Conference on Security of Information and Networks (SIN) - 2020*
+
+
+* **[Detection of false command and response injection attacks for cyber physical systems security and resilience](<https://dl.acm.org/doi/abs/10.1145/3433174.3433615>)** in *13th International Conference on Security of Information and Networks (SIN) - 2020*
+
+
+* **[Handling minority class problem in threats detection based on heterogeneous ensemble learning approach](<https://www.igi-global.com/article/handling-minority-class-problem-in-threats-detection-based-on-heterogeneous-ensemble-learning-approach/259418>)** in *International Journal of Systems and Software Security and Protection (IJSSSP) - 2020*
+
+
+* **[The use of machine learning algorithms for detecting advanced persistent threats](<https://dl.acm.org/doi/abs/10.1145/3357613.3357618>)** in *12th International Conference on Security of Information and Networks (SIN) - 2019*
 
 
 * **[Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm](<https://rgu-repository.worktribe.com/output/401052>)** in *16th International security and cryptography conference (SECRYPT) - 2019*
@@ -84,6 +101,9 @@
 
 
 * **[Dimensions of ‘socio’vulnerabilities of advanced persistent threats](<https://ieeexplore.ieee.org/document/8903788>)** in *International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - 2019*
+
+
+* **[Evaluating awareness and perception of botnet activity within consumer internet-of-things (IoT) networks](<https://www.mdpi.com/2227-9709/6/1/8>)** in *MDPI Informatics Special Issue on Human Factors in Security and Privacy in IoT (HFSP-IoT) - 2019*
 
 
 ***************************************************************************************************************
