@@ -118,7 +118,7 @@
 
 ***************************************************************************************************************
 
-## Team Members
+## Group Members
 
 
 | Hatem Ahriz  | Dipto Arifeen |  Ian Haris | Shadi Hajar |
