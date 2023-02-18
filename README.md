@@ -3,11 +3,9 @@
 
 ## Research Areas and Recent Publications
 
-#### ** To see the full list of publications please visit the profiles of individual members.
-
 ### Our research areas overlap with cybersecurity and artificial intelligance. 
 
-##### **Currently, we are accepting PhD students to carry out research projects on cybersecurity. If you have a Bachelor's degree in Computer Science related field (UK equivalent 1st or 2nd upper) and a strong interest in any of the below areas, do not hesitate to contact us.
+#### ** To see the full list of publications please visit the profiles of individual members. Currently, we are accepting PhD students to carry out research projects on cybersecurity. If you have a Bachelor's degree in Computer Science related field (UK equivalent 1st or 2nd upper) and a strong interest in any of the below areas, do not hesitate to contact us.
 
 ### IoT and Cyber Physical Systems Security : 
 
