@@ -1,7 +1,7 @@
 # Cybersecurity Research Lab at Robert Gordon University, UK
 
 
-## Research Areas and Publications
+## Research Areas and Recent Publications
 
 Our research areas overlap with cybersecurity and artificial intelligance. 
 
