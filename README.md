@@ -7,12 +7,18 @@
 
 ##### **Currently, we are accepting PhD students to carry out research projects on cybersecurity. If you have a Bachelor's degree in Computer Science related field (UK equivalent 1st or 2nd upper) and a strong interest in any of the below areas, do not hesitate to contact us.
 
-### IoT Security : 
-
-* **[Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)** in *8th ACM on Cyber-Physical System Security Workshop - 2022*
+### IoT and Cyber Physical Systems Security : 
 
 
-* **[Resource Efficient Federated Deep Learning for IoT Security Monitoring](<https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6>)** in *Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT - 2022*
+* **[AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)** in *ACM Computing Surveys - 2023*
+
+* **[Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security](<https://ieeexplore.ieee.org/document/9811048>)** in *14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022*
+
+
+* **[Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)** in *8th ACM on Cyber-Physical System Security Workshop in ACM Asia CCS - 2022*
+
+
+* **[Resource Efficient Federated Deep Learning for IoT Security Monitoring](<https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6>)** in *Attacks and Defenses for the Internet-of-Things: 5th International Workshop in ESORICS - 2022*
 
 
 * **[Topology for Preserving Feature Correlation in Tabular Synthetic Data](<https://ieeexplore.ieee.org/document/9970505>)** in *15th International Conference on Security of Information and Networks (SIN) - 2022*
@@ -35,6 +41,8 @@
 
 * **[Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm](<https://rgu-repository.worktribe.com/output/401052>)** in *16th International security and cryptography conference (SECRYPT) - 2019*
 
+
+* **[Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus](<https://dl.acm.org/doi/10.1145/3359999.3360496>)** in *3rd ACM Computer Science in Cars Symposium - 2019*
 
 
 ### Network Security : 
@@ -67,18 +75,6 @@
 
 
 * **[Android Mobile Malware Detection Using Machine Learning: A Systematic Review](<https://www.mdpi.com/2079-9292/10/13/1606>)** in *MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021*
-
-
-
-### Vehicle Security : 
-
-* **[AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)** in *ACM Computing Surveys - 2023*
-
-
-* **[Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security](<https://ieeexplore.ieee.org/document/9811048>)** in *14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022*
-
-
-* **[Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus](<https://dl.acm.org/doi/10.1145/3359999.3360496>)** in *3rd ACM Computer Science in Cars Symposium - 2019*
 
 
 
