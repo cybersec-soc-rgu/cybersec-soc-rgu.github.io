@@ -119,7 +119,7 @@
 
 ## Oragainsed Conferences/ Workshops
 
-* **[Workshop on Artificial Intelligence and Cyber Security (AI-CyberSec) - 2021](<https://sites.google.com/view/ai-cybersec-2021/home>)** *The workshop was co-located with the [41st SGAI International Conference on Artificial Intelligence](<http://www.bcs-sgai.org/ai2021/>)*
+* **[Workshop on Artificial Intelligence and Cyber Security (AI-CyberSec) - 2021](<https://sites.google.com/view/ai-cybersec-2021/home>)** *Co-located with the [41st SGAI International Conference on Artificial Intelligence](<http://www.bcs-sgai.org/ai2021/>)*
 
 
 ***************************************************************************************************************
