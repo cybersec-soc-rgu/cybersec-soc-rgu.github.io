@@ -80,7 +80,7 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 
 
-### Human Factors in Security 
+### Human Factors in Security : 
 
 * **[Replacing Human Input in Spam Email Detection Using Deep Learning](<https://link.springer.com/chapter/10.1007/978-3-031-05643-7_25>)** - *Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022*
 
