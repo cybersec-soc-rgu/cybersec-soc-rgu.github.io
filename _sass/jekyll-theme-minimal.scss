@@ -263,9 +263,9 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 880px) {
   body {
-    padding:15px;
+    padding:5px;
   }
 
   .downloads {
