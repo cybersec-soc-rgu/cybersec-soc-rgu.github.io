@@ -7,85 +7,85 @@ Our research areas overlap with cybersecurity and artificial intelligance.
 
 ### IoT Security : 
 
-* **[Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)** - *8th ACM on Cyber-Physical System Security Workshop - 2022*
+* **[Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks](<https://dl.acm.org/doi/abs/10.1145/3494107.3522772>)** in *8th ACM on Cyber-Physical System Security Workshop - 2022*
 
 
-* **[Resource Efficient Federated Deep Learning for IoT Security Monitoring](<https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6>)** - *Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT - 2022*
+* **[Resource Efficient Federated Deep Learning for IoT Security Monitoring](<https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6>)** in *Attacks and Defenses for the Internet-of-Things: 5th International Workshop, ADIoT - 2022*
 
 
-* **[Topology for Preserving Feature Correlation in Tabular Synthetic Data](<https://ieeexplore.ieee.org/document/9970505>)** - *15th International Conference on Security of Information and Networks (SIN) - 2022*
+* **[Topology for Preserving Feature Correlation in Tabular Synthetic Data](<https://ieeexplore.ieee.org/document/9970505>)** in *15th International Conference on Security of Information and Networks (SIN) - 2022*
 
 
-* **[Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)](<https://ieeexplore.ieee.org/document/9699232>)** - *14th International Conference on Security of Information and Networks (SIN) - 2021*
+* **[Automated microsegmentation for lateral movement prevention in industrial internet of things (IIoT)](<https://ieeexplore.ieee.org/document/9699232>)** in *14th International Conference on Security of Information and Networks (SIN) - 2021*
 
 
-* **[Improving intrusion detection through training data augmentation](<https://ieeexplore.ieee.org/document/9699293>)** - *14th International Conference on Security of Information and Networks (SIN) - 2021*
+* **[Improving intrusion detection through training data augmentation](<https://ieeexplore.ieee.org/document/9699293>)** in *14th International Conference on Security of Information and Networks (SIN) - 2021*
 
 
-* **[Effective detection of cyber attack in a cyber-physical power grid system](<https://link.springer.com/chapter/10.1007/978-3-030-73100-7_57>)** - *Future of information and communication conference (FICC) - 2021*
+* **[Effective detection of cyber attack in a cyber-physical power grid system](<https://link.springer.com/chapter/10.1007/978-3-030-73100-7_57>)** in *Future of information and communication conference (FICC) - 2021*
 
 
-* **[Resource efficient boosting method for IoT security monitoring](<https://ieeexplore.ieee.org/abstract/document/9369620>)** - *IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021*
+* **[Resource efficient boosting method for IoT security monitoring](<https://ieeexplore.ieee.org/abstract/document/9369620>)** in *IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) - 2021*
 
 
-* **[Memory efficient federated deep learning for intrusion detection in IoT networks](<https://ceur-ws.org/Vol-3125/paper7.pdf>)** - *AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021*
+* **[Memory efficient federated deep learning for intrusion detection in IoT networks](<https://ceur-ws.org/Vol-3125/paper7.pdf>)** in *AI-CyberSec: Workshop on Artificial Intelligence and Cyber Security - 2021*
 
 
-* **[Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm](<https://rgu-repository.worktribe.com/output/401052>)** - *16th International security and cryptography conference (SECRYPT) - 2019*
+* **[Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm](<https://rgu-repository.worktribe.com/output/401052>)** in *16th International security and cryptography conference (SECRYPT) - 2019*
 
 
 
 ### Network Security : 
 
-* **[DQR: a double Q learning multi agent routing protocol for wireless medical sensor network](<https://link.springer.com/chapter/10.1007/978-3-031-25538-0_32>)** - *Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022*
+* **[DQR: a double Q learning multi agent routing protocol for wireless medical sensor network](<https://link.springer.com/chapter/10.1007/978-3-031-25538-0_32>)** in *Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022*
 
 
-* **[A Robust Exploration Strategy in Reinforcement Learning Based on Temporal Difference Error](<https://link.springer.com/chapter/10.1007/978-3-031-22695-3_55>)** - *AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, AI - 2022*
+* **[A Robust Exploration Strategy in Reinforcement Learning Based on Temporal Difference Error](<https://link.springer.com/chapter/10.1007/978-3-031-22695-3_55>)** in *AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, AI - 2022*
 
 
-* **[A survey on wireless body area networks: Architecture, security challenges and research opportunities](<https://www.sciencedirect.com/science/article/pii/S0167404821000353>)** - *Computers & Security - 2021*
+* **[A survey on wireless body area networks: Architecture, security challenges and research opportunities](<https://www.sciencedirect.com/science/article/pii/S0167404821000353>)** in *Computers & Security - 2021*
 
 
-* **[TrustMod: A Trust Management Module For NS-3 Simulator](<https://ieeexplore.ieee.org/document/9724409/>)** - *IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2021*
+* **[TrustMod: A Trust Management Module For NS-3 Simulator](<https://ieeexplore.ieee.org/document/9724409/>)** in *IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2021*
 
 
-* **[Ltms: A lightweight trust management system for wireless medical sensor networks](<https://ieeexplore.ieee.org/document/9343095>)** - *IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) -2020*
+* **[Ltms: A lightweight trust management system for wireless medical sensor networks](<https://ieeexplore.ieee.org/document/9343095>)** in *IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2020*
 
 
-* **[Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks](<https://ieeexplore.ieee.org/document/9162325>)** - *IEEE Conference on Communications and Network Security (CNS) - 2020*
+* **[Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks](<https://ieeexplore.ieee.org/document/9162325>)** in *IEEE Conference on Communications and Network Security (CNS) - 2020*
 
 
 
 ### Software Security : 
 
-* **[Android source code vulnerability detection: a systematic literature review](<https://dl.acm.org/doi/10.1145/3556974>)** - *ACM Computing Surveys - 2023*
+* **[Android source code vulnerability detection: a systematic literature review](<https://dl.acm.org/doi/10.1145/3556974>)** in *ACM Computing Surveys - 2023*
 
 
-* **[Developing secured Android applications by mitigating code vulnerabilities with machine learning](<https://dl.acm.org/doi/abs/10.1145/3488932.3527290>)** - *ACM on Asia Conference on Computer and Communications Security (AsiaCCS) - 2022*
+* **[Developing secured Android applications by mitigating code vulnerabilities with machine learning](<https://dl.acm.org/doi/abs/10.1145/3488932.3527290>)** in *ACM on Asia Conference on Computer and Communications Security (AsiaCCS) - 2022*
 
 
-* **[Android Mobile Malware Detection Using Machine Learning: A Systematic Review](<https://www.mdpi.com/2079-9292/10/13/1606>)** - *MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021*
+* **[Android Mobile Malware Detection Using Machine Learning: A Systematic Review](<https://www.mdpi.com/2079-9292/10/13/1606>)** in *MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021*
 
 
 
 ### Vehicle Security : 
 
-* **[AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)** - *ACM Computing Surveys - 2023*
+* **[AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)** in *ACM Computing Surveys - 2023*
 
 
-* **[Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security](<https://ieeexplore.ieee.org/document/9811048>)** - *14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022*
+* **[Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security](<https://ieeexplore.ieee.org/document/9811048>)** in *14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022*
 
 
-* **[Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus](<https://dl.acm.org/doi/10.1145/3359999.3360496>)** - *3rd ACM Computer Science in Cars Symposium - 2019*
+* **[Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus](<https://dl.acm.org/doi/10.1145/3359999.3360496>)** in *3rd ACM Computer Science in Cars Symposium - 2019*
 
 
 
 ### Human Factors in Security : 
 
-* **[Replacing Human Input in Spam Email Detection Using Deep Learning](<https://link.springer.com/chapter/10.1007/978-3-031-05643-7_25>)** - *Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022*
+* **[Replacing Human Input in Spam Email Detection Using Deep Learning](<https://link.springer.com/chapter/10.1007/978-3-031-05643-7_25>)** in *Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022*
 
 
-* **[Dimensions of ‘socio’vulnerabilities of advanced persistent threats](<https://ieeexplore.ieee.org/document/8903788>)** - *International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - 2019*
+* **[Dimensions of ‘socio’vulnerabilities of advanced persistent threats](<https://ieeexplore.ieee.org/document/8903788>)** in *International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - 2019*
 
 
 ***************************************************************************************************************
