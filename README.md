@@ -81,6 +81,8 @@
 
 * **[Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks](<https://ieeexplore.ieee.org/document/9162325>)** in *IEEE Conference on Communications and Network Security (CNS) - 2020*
 
+* **[Anomaly Detection in Network Traffic Using Dynamic Graph Mining with a Sparse Autoencoder](<https://ieeexplore.ieee.org/document/8887418>)** in *IEEE 18th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2019*
+
 
 
 ### Software Security : 
@@ -94,6 +96,9 @@
 
 
 * **[Android Mobile Malware Detection Using Machine Learning: A Systematic Review](<https://www.mdpi.com/2079-9292/10/13/1606>)** in *MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021*
+
+
+* **[Naive Bayes: applications, variations and vulnerabilities: a review of literature with code snippets for implementation](<https://link.springer.com/article/10.1007/s00500-020-05297-6>)** in *Soft Computing - A Fusion of Foundations, Methodologies and Applications - 2021*
 
 
 
