@@ -90,6 +90,8 @@
 
 * **[Developing secured Android applications by mitigating code vulnerabilities with machine learning](<https://dl.acm.org/doi/abs/10.1145/3488932.3527290>)** in *ACM on Asia Conference on Computer and Communications Security (AsiaCCS) - 2022*
 
+* **[AI-Powered Vulnerability Detection for Secure Source Code Development](<https://easychair.org/smart-program/SECITC2022/2022-12-08.html#talk:210584>)** in *15th International Conference on Security for Information Technology and Communications (SECITC) - 2022*
+
 
 * **[Android Mobile Malware Detection Using Machine Learning: A Systematic Review](<https://www.mdpi.com/2079-9292/10/13/1606>)** in *MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021*
 
