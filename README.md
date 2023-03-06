@@ -77,6 +77,7 @@ To make our research more accessible, we have organized our publications into ca
   
 </details>
 
+<p>&nbsp;</p>
 <p>If you wish to view a complete list of our publications, we recommend visiting the individual profiles of our team members. You can find more information about their research interests and expertise, as well as a list of their publications. 
 </p>
 
