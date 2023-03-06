@@ -169,12 +169,14 @@
 
 
 <details>
-  <h3><summary>IoT and Cyber Physical Systems Security :</summary></h3>
+  <summary><h3>IoT and Cyber Physical Systems Security :</h3></summary>
   
-  * **[AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)** in *ACM Computing Surveys - 2023*
-
-  * **[Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security](<https://ieeexplore.ieee.org/document/9811048>)** in *14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022*
-
+  <ul>
+    <li> <a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>
+    
+    <li> <a href="[https://dl.acm.org/doi/10.1145/3570954](https://ieeexplore.ieee.org/document/9811048)">Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security</a> in <i>14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022</i></li>
+  
+  </ul>
   
 </details>
 
