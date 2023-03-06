@@ -1,4 +1,4 @@
-# Cybersecurity Research Lab at Robert Gordon University, UK
+# Cybersecurity Research at Robert Gordon University, UK
 
 
 ## Research Areas and Recent Publications
