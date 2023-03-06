@@ -169,7 +169,7 @@
 
 
 <details>
-  <summary><b><a style="cursor: pointer;"><section id="IOTSec">IoT and Cyber Physical Systems Security</section></a></b></summary>
+  <summary><b><a style="cursor: pointer;"><span id="IOTSec">IoT and Cyber Physical Systems Security</span></a></b></summary>
   
   <ul>
     <li><a href="https://dl.acm.org/doi/10.1145/3570954" target="_blank">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>        
