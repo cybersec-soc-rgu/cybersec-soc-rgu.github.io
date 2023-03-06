@@ -177,10 +177,5 @@
      * Baz
      * Qux
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  
 </details>
