@@ -75,6 +75,7 @@
   
 </details>
 
+
 #### ** If you wish to view a complete list of our publications, we recommend visiting the individual profiles of our team members. You can find more information about their research interests and expertise, as well as a list of their publications. 
 
 #### ** Currently, we are actively seeking PhD students (self-funded) to work on research projects related to cybersecurity. If you have a Bachelor's degree in a Computer Science-related field (with a UK equivalent of 1st or 2nd upper), and have a strong interest in any of the above areas, please don't hesitate to get in touch with us. We welcome enthusiastic and motivated individuals who are passionate about advancing the field of cybersecurity through cutting-edge research. Please contact us for more information on how to apply for our PhD program.
