@@ -169,13 +169,11 @@
 
 
 <details>
-  <summary>Click me</summary>
+  <summary><h3>IoT and Cyber Physical Systems Security :</h3></summary>
   
-  <h3>IoT and Cyber Physical Systems Security :</h3>
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  * **[AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)** in *ACM Computing Surveys - 2023*
+
+  * **[Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security](<https://ieeexplore.ieee.org/document/9811048>)** in *14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022*
 
   
 </details>
