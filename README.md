@@ -7,7 +7,7 @@
 
 #### ** To see the full list of publications please visit the profiles of individual members. Currently, we are accepting PhD students to carry out research projects on cybersecurity. If you have a Bachelor's degree in Computer Science related field (UK equivalent 1st or 2nd upper) and a strong interest in any of the below areas, do not hesitate to contact us.
 
-### IoT and Cyber Physical Systems Security : 
+<!-- ### IoT and Cyber Physical Systems Security : 
 
 
 * **[AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey](<https://dl.acm.org/doi/10.1145/3570954>)** in *ACM Computing Surveys - 2023*
@@ -59,7 +59,7 @@
 * **[Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm](<https://rgu-repository.worktribe.com/output/401052>)** in *16th International security and cryptography conference (SECRYPT) - 2019*
 
 
-* **[Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus](<https://dl.acm.org/doi/10.1145/3359999.3360496>)** in *3rd ACM Computer Science in Cars Symposium - 2019*
+* **[Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus](<https://dl.acm.org/doi/10.1145/3359999.3360496>)** in *3rd ACM Computer Science in Cars Symposium - 2019* -->
 
 
 ### Network Security : 
@@ -189,8 +189,7 @@
     <li><a href="https://www.igi-global.com/article/handling-minority-class-problem-in-threats-detection-based-on-heterogeneous-ensemble-learning-approach/259418" target="_blank">Handling minority class problem in threats detection based on heterogeneous ensemble learning approach</a> in <i>International Journal of Systems and Software Security and Protection (IJSSSP) - 2020</i></li>        
     <li><a href="https://dl.acm.org/doi/abs/10.1145/3357613.3357618" target="_blank">The use of machine learning algorithms for detecting advanced persistent threats</a> in <i>12th International Conference on Security of Information and Networks (SIN) - 2019</i></li>      
     <li><a href="https://rgu-repository.worktribe.com/output/401052" target="_blank">Reducing computational cost in IoT cyber security: case study of artificial immune system algorithm</a> in <i>16th International security and cryptography conference (SECRYPT) - 2019</i></li>       
-    <li><a href="https://dl.acm.org/doi/10.1145/3359999.3360496" target="_blank">Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus</a> in <i>3rd ACM Computer Science in Cars Symposium - 2019</i></li>    
-    
+    <li><a href="https://dl.acm.org/doi/10.1145/3359999.3360496" target="_blank">Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus</a> in <i>3rd ACM Computer Science in Cars Symposium - 2019</i></li>       
   
   </ul>
   
@@ -200,8 +199,13 @@
   <summary><b><a style="cursor: pointer;">Network Security</a></b></summary>
   
   <ul>
-    <li> <a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
-    <li> <a href="https://ieeexplore.ieee.org/document/9811048">Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security</a> in <i>14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022</i></li>
+    <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-25538-0_32" target="_blank">DQR: a double Q learning multi agent routing protocol for wireless medical sensor network</a> in <i>Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022</i></li>    
+    <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-22695-3_55" target="_blank">A Robust Exploration Strategy in Reinforcement Learning Based on Temporal Difference Error</a> in <i>AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, AI - 2022</i></li>    
+    <li> <a href="https://www.sciencedirect.com/science/article/pii/S0167404821000353" target="_blank">A survey on wireless body area networks: Architecture, security challenges and research opportunities</a> in <i>Computers & Security - 2021</i></li>    
+    <li> <a href="https://ieeexplore.ieee.org/document/9724409/" target="_blank">TrustMod: A Trust Management Module For NS-3 Simulator</a> in <i>IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2021</i></li>    
+    <li> <a href="https://ieeexplore.ieee.org/document/9343095" target="_blank">Ltms: A lightweight trust management system for wireless medical sensor networks</a> in <i>IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2020</i></li>       
+    <li> <a href="https://ieeexplore.ieee.org/document/9162325" target="_blank">Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks</a> in <i>IEEE Conference on Communications and Network Security (CNS) - 2020</i></li>
+    <li> <a href="https://ieeexplore.ieee.org/document/8887418" target="_blank"Anomaly Detection in Network Traffic Using Dynamic Graph Mining with a Sparse Autoencoder</a> in <iIEEE 18th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2019</i></li>
   
   </ul>
   
