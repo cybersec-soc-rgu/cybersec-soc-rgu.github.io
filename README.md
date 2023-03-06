@@ -172,10 +172,10 @@
   <summary><b><a style="cursor: pointer;">IoT and Cyber Physical Systems Security</a></b></summary>
   
   <ul>
-    <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>        
-    <li> <a href="https://ieeexplore.ieee.org/document/9811048">Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security</a> in <i>14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022</i></li>    
-    <li><a href="https://dl.acm.org/doi/abs/10.1145/3494107.3522772">Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks</a> in <i>8th ACM on Cyber-Physical System Security Workshop in ACM Asia CCS - 2022</i></li>   
-    <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6">Resource Efficient Federated Deep Learning for IoT Security Monitoring</a> in <i>Attacks and Defenses for the Internet-of-Things: 5th International Workshop in ESORICS - 2022</i></li>  
+    <li><a href="https://dl.acm.org/doi/10.1145/3570954" target="_blank">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>        
+    <li> <a href="https://ieeexplore.ieee.org/document/9811048" target="_blank">Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security</a> in <i>14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022</i></li>    
+    <li><a href="https://dl.acm.org/doi/abs/10.1145/3494107.3522772" target="_blank">Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks</a> in <i>8th ACM on Cyber-Physical System Security Workshop in ACM Asia CCS - 2022</i></li>   
+    <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6" target="_blank">Resource Efficient Federated Deep Learning for IoT Security Monitoring</a> in <i>Attacks and Defenses for the Internet-of-Things: 5th International Workshop in ESORICS - 2022</i></li>  
     
     <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
     <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
