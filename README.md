@@ -73,8 +73,7 @@ To make our research more accessible, we have organized our publications into ca
     <li> <a href="https://ieeexplore.ieee.org/document/8903788" target="_blank">Dimensions of ‘socio’vulnerabilities of advanced persistent threats</a> in <i>International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - 2019</i></li>    
     <li> <a href="https://www.mdpi.com/2227-9709/6/1/8" target="_blank">Evaluating awareness and perception of botnet activity within consumer internet-of-things (IoT) networks</a> in <i>MDPI Informatics Special Issue on Human Factors in Security and Privacy in IoT (HFSP-IoT) - 2019</i></li>  
      
-  </ul>
-  
+  </ul>  
 </details>
 
 <br/>
