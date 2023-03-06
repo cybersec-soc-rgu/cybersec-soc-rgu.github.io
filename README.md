@@ -180,7 +180,7 @@
 </details>
 
 <details>
-  <summary><b>Network Security</b><sub><a href="">(click to see publications)</a></summary>
+  <summary><b>Network Security</b><sub><a href="#">(click to see publications)</a></summary>
   
   <ul>
     <li> <a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
