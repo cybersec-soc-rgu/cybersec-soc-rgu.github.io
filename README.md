@@ -3,7 +3,9 @@
 
 ## Research Areas and Recent Publications
 
-#### Our research focuses on the intersection of cybersecurity and artificial intelligence (AI), which covers a wide range of topics. We explore the application of AI technologies for defensive and offensive security, and also examine the potential for AI technologies to be used for malicious and unethical purposes. Furthermore, we investigate ways to enhance the security and robustness of AI technologies. In addition to these technical aspects, we also consider the Human Factors in Security. This includes the ways in which individuals interact with technology and the social and organizational factors that can affect security. To make our research more accessible, we have organized our publications into categories based on their application domains. You can navigate to each of these categories using the floating menus provided, and access recent publications to stay informed on the latest developments in our research areas.
+Our research focuses on the intersection of cybersecurity and artificial intelligence (AI), which covers a wide range of topics. We explore the application of AI technologies for defensive and offensive security, and also examine the potential for AI technologies to be used for malicious and unethical purposes. Furthermore, we investigate ways to enhance the security and robustness of AI technologies. In addition to these technical aspects, we also consider the Human Factors in Security. This includes the ways in which individuals interact with technology and the social and organizational factors that can affect security. 
+
+To make our research more accessible, we have organized our publications into categories based on their application domains. You can navigate to each of these categories using the floating menus provided, and access recent publications to stay informed on the latest developments in our research areas.
 
 
 <details>
@@ -77,10 +79,10 @@
 
 
 
-#### If you wish to view a complete list of our publications, we recommend visiting the individual profiles of our team members. You can find more information about their research interests and expertise, as well as a list of their publications. 
+If you wish to view a complete list of our publications, we recommend visiting the individual profiles of our team members. You can find more information about their research interests and expertise, as well as a list of their publications. 
 
 
-#### Currently, we are actively seeking PhD students (self-funded) to work on research projects related to cybersecurity. If you have a Bachelor's degree in a Computer Science-related field (with a UK equivalent of 1st or 2nd upper), and have a strong interest in any of the above areas, please don't hesitate to get in touch with us. We welcome enthusiastic and motivated individuals who are passionate about advancing the field of cybersecurity through cutting-edge research. Please contact us for more information on how to apply for our PhD program.
+Currently, we are actively seeking PhD students (self-funded) to work on research projects related to cybersecurity. If you have a Bachelor's degree in a Computer Science-related field (with a UK equivalent of 1st or 2nd upper), and have a strong interest in any of the above areas, please don't hesitate to get in touch with us. We welcome enthusiastic and motivated individuals who are passionate about advancing the field of cybersecurity through cutting-edge research. Please contact us for more information on how to apply for our PhD program.
 
 ***************************************************************************************************************
 
