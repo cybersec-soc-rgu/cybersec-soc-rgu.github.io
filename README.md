@@ -175,14 +175,14 @@
     <li><a href="https://dl.acm.org/doi/10.1145/3570954" target="_blank">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>        
     <li> <a href="https://ieeexplore.ieee.org/document/9811048" target="_blank">Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security</a> in <i>14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022</i></li>    
     <li><a href="https://dl.acm.org/doi/abs/10.1145/3494107.3522772" target="_blank">Robust, effective and resource efficient deep neural network for intrusion detection in IoT networks</a> in <i>8th ACM on Cyber-Physical System Security Workshop in ACM Asia CCS - 2022</i></li>   
-    <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6" target="_blank">Resource Efficient Federated Deep Learning for IoT Security Monitoring</a> in <i>Attacks and Defenses for the Internet-of-Things: 5th International Workshop in ESORICS - 2022</i></li>  
+    <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-21311-3_6" target="_blank">Resource Efficient Federated Deep Learning for IoT Security Monitoring</a> in <i>Attacks and Defenses for the Internet-of-Things: 5th International Workshop in ESORICS - 2022</i></li>      
+    <li><a href="https://ieeexplore.ieee.org/document/9970505" target="_blank">Topology for Preserving Feature Correlation in Tabular Synthetic Data</a> in <i>15th International Conference on Security of Information and Networks (SIN) - 2022</i></li>        
+    <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_6" target="_blank">Framework for Detecting APTs Based on Steps Analysis and Correlation</a> in <i>Springer Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control - 2022</i></li>    
     
-    <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
-    <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
-    <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
-    <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
-    <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
-    <li><a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
+    <li><a href="https://dl.acm.org/doi/10.1145/3570954" target="_blank">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
+    <li><a href="https://dl.acm.org/doi/10.1145/3570954" target="_blank">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
+    <li><a href="https://dl.acm.org/doi/10.1145/3570954" target="_blank">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
+    <li><a href="https://dl.acm.org/doi/10.1145/3570954" target="_blank">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i></li>    
   
   </ul>
   
