@@ -71,8 +71,7 @@ To make our research more accessible, we have organized our publications into ca
   <ul>
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-05643-7_25" target="_blank">Replacing Human Input in Spam Email Detection Using Deep Learning</a> in <i>Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022</i></li>    
     <li> <a href="https://ieeexplore.ieee.org/document/8903788" target="_blank">Dimensions of ‘socio’vulnerabilities of advanced persistent threats</a> in <i>International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - 2019</i></li>    
-    <li> <a href="https://www.mdpi.com/2227-9709/6/1/8" target="_blank">Evaluating awareness and perception of botnet activity within consumer internet-of-things (IoT) networks</a> in <i>MDPI Informatics Special Issue on Human Factors in Security and Privacy in IoT (HFSP-IoT) - 2019</i></li>  
-     
+    <li> <a href="https://www.mdpi.com/2227-9709/6/1/8" target="_blank">Evaluating awareness and perception of botnet activity within consumer internet-of-things (IoT) networks</a> in <i>MDPI Informatics Special Issue on Human Factors in Security and Privacy in IoT (HFSP-IoT) - 2019</i></li>       
   </ul>  
 </details>
 
