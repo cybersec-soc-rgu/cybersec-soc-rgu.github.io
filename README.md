@@ -205,7 +205,7 @@
     <li> <a href="https://ieeexplore.ieee.org/document/9724409/" target="_blank">TrustMod: A Trust Management Module For NS-3 Simulator</a> in <i>IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2021</i></li>    
     <li> <a href="https://ieeexplore.ieee.org/document/9343095" target="_blank">Ltms: A lightweight trust management system for wireless medical sensor networks</a> in <i>IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2020</i></li>       
     <li> <a href="https://ieeexplore.ieee.org/document/9162325" target="_blank">Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks</a> in <i>IEEE Conference on Communications and Network Security (CNS) - 2020</i></li>
-    <li> <a href="https://ieeexplore.ieee.org/document/8887418" target="_blank"Anomaly Detection in Network Traffic Using Dynamic Graph Mining with a Sparse Autoencoder</a> in <i>IEEE 18th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2019</i></li>
+    <li> <a href="https://ieeexplore.ieee.org/document/8887418" target="_blank">Anomaly Detection in Network Traffic Using Dynamic Graph Mining with a Sparse Autoencoder</a> in <i>IEEE 18th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2019</i></li>
   
   </ul>
   
