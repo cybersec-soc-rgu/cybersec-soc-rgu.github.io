@@ -62,7 +62,7 @@
 * **[Context-aware anomaly detector for monitoring cyber attacks on automotive CAN bus](<https://dl.acm.org/doi/10.1145/3359999.3360496>)** in *3rd ACM Computer Science in Cars Symposium - 2019* -->
 
 
-### Network Security : 
+<!-- ### Network Security : 
 
 * **[DQR: a double Q learning multi agent routing protocol for wireless medical sensor network](<https://link.springer.com/chapter/10.1007/978-3-031-25538-0_32>)** in *Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022*
 
@@ -81,7 +81,7 @@
 
 * **[Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks](<https://ieeexplore.ieee.org/document/9162325>)** in *IEEE Conference on Communications and Network Security (CNS) - 2020*
 
-* **[Anomaly Detection in Network Traffic Using Dynamic Graph Mining with a Sparse Autoencoder](<https://ieeexplore.ieee.org/document/8887418>)** in *IEEE 18th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2019*
+* **[Anomaly Detection in Network Traffic Using Dynamic Graph Mining with a Sparse Autoencoder](<https://ieeexplore.ieee.org/document/8887418>)** in *IEEE 18th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2019* -->
 
 
 
@@ -207,6 +207,20 @@
     <li> <a href="https://ieeexplore.ieee.org/document/9162325" target="_blank">Etaree: An effective trend-aware reputation evaluation engine for wireless medical sensor networks</a> in <i>IEEE Conference on Communications and Network Security (CNS) - 2020</i></li>
     <li> <a href="https://ieeexplore.ieee.org/document/8887418" target="_blank">Anomaly Detection in Network Traffic Using Dynamic Graph Mining with a Sparse Autoencoder</a> in <i>IEEE 18th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) - 2019</i></li>
   
+  </ul>
+  
+</details>
+
+<details>
+  <summary><b><a style="cursor: pointer;">Software Security</a></b></summary>
+  
+  <ul>
+    <li> <a href="https://dl.acm.org/doi/10.1145/3556974" target="_blank">Android source code vulnerability detection: a systematic literature review</a> in <i>ACM Computing Surveys - 2023</i></li>    
+    <li> <a href="https://dl.acm.org/doi/abs/10.1145/3488932.3527290" target="_blank">Developing secured Android applications by mitigating code vulnerabilities with machine learning</a> in <i>ACM on Asia Conference on Computer and Communications Security (AsiaCCS) - 2022</i></li>    
+    <li> <a href="https://easychair.org/smart-program/SECITC2022/2022-12-08.html#talk:210584" target="_blank">AI-Powered Vulnerability Detection for Secure Source Code Development</a> in <i>15th International Conference on Security for Information Technology and Communications (SECITC) - 2022</i></li>    
+    <li> <a href="https://www.mdpi.com/2079-9292/10/13/1606" target="_blank">Android Mobile Malware Detection Using Machine Learning: A Systematic Review</a> in <i>MDPI Electronics Special Issue in High Accuracy Detection of Mobile Malware Using Machine Learning - 2021</i></li>    
+    <li> <a href="https://link.springer.com/article/10.1007/s00500-020-05297-6" target="_blank">Naive Bayes: applications, variations and vulnerabilities: a review of literature with code snippets for implementation</a> in <i>Soft Computing - A Fusion of Foundations, Methodologies and Applications - 2021</i></li>       
+     
   </ul>
   
 </details>
