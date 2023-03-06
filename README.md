@@ -174,7 +174,7 @@
   <ul>
     <li> <a href="https://dl.acm.org/doi/10.1145/3570954">AI-Based Intrusion Detection Systems for In-Vehicle Networks: A Survey</a> in <i>ACM Computing Surveys - 2023</i>
     
-    <li> <a href="[https://dl.acm.org/doi/10.1145/3570954](https://ieeexplore.ieee.org/document/9811048)">Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security</a> in <i>14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022</i>
+    <li> <a href="https://ieeexplore.ieee.org/document/9811048">Keep the Moving Vehicle Secure: Context-Aware Intrusion Detection System for In-Vehicle CAN Bus Security</a> in <i>14th International Conference on Cyber Conflict: Keep Moving!(CyCon) - 2022</i>
   
   </ul>
   
