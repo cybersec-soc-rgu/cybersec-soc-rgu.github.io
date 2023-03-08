@@ -40,6 +40,7 @@ To make our research more accessible, we have organized our publications into ca
   <summary><b><a style="cursor: pointer;">Network Security</a></b></summary>
   
   <ul>
+  <li> <a href="https://books.google.co.uk/books?hl=en&lr=&id=iemuEAAAQBAJ&oi=fnd&pg=PA255&ots=CaZJ1BmJeg&sig=aOGm5-LAYp9IvxAymzY7MBQZCP8&redir_esc=y#v=onepage&q&f=false" target="_blank">Security Challenges in Wireless Body Area Networks for Smart Healthcare</a> in <i>Artificial Intelligence for Disease Diagnosis and Prognosis in Smart Healthcare - 2023</i></li> 
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-25538-0_32" target="_blank">DQR: a double Q learning multi agent routing protocol for wireless medical sensor network</a> in <i>Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm - 2022</i></li>    
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-22695-3_55" target="_blank">A Robust Exploration Strategy in Reinforcement Learning Based on Temporal Difference Error</a> in <i>AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, AI - 2022</i></li>    
     <li> <a href="https://www.sciencedirect.com/science/article/pii/S0167404821000353" target="_blank">A survey on wireless body area networks: Architecture, security challenges and research opportunities</a> in <i>Computers & Security - 2021</i></li>    
