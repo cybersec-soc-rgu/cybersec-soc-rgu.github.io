@@ -58,6 +58,9 @@ To make our research more accessible, we have organized our publications into ca
   <summary><b><a style="cursor: pointer;">Software Security</a></b></summary>
   
   <ul>
+    <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-37586-6_20" target="_blank">Android Code Vulnerabilities Early Detection Using AI-Powered ACVED Plugin</a> in <i>37th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec'23)</i></li>   
+    <li> <a href="https://www.scitepress.org/Papers/2023/120604/120604.pdf" target="_blank">Labelled Vulnerability Dataset on Android Source Code (LVDAndro) to
+Develop AI-Based Code Vulnerability Detection Models</a> in <i>20th International security and cryptography conference (SECRYPT) - 2023</i></li>   
     <li> <a href="https://dl.acm.org/doi/10.1145/3556974" target="_blank">Android source code vulnerability detection: a systematic literature review</a> in <i>ACM Computing Surveys - 2023</i></li>    
     <li> <a href="https://dl.acm.org/doi/abs/10.1145/3488932.3527290" target="_blank">Developing secured Android applications by mitigating code vulnerabilities with machine learning</a> in <i>ACM on Asia Conference on Computer and Communications Security (AsiaCCS) - 2022</i></li>    
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-32636-3_16" target="_blank">AI-Powered Vulnerability Detection for Secure Source Code Development</a> in <i>15th International Conference on Security for Information Technology and Communications (SECITC) - 2022</i></li>    
