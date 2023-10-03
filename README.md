@@ -63,6 +63,8 @@ To make our research more accessible, we have organized our publications into ca
   <summary><b><a style="cursor: pointer;">Software Security</a></b></summary>
   
   <ul>
+    <li> <a href="https://wasp-workshop.github.io/program/" target="_blank">FedREVAN: Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI</a> in <i>WASP at 28th European Symposium on Research in Computer Security (ESORICS 2023)</i></li>   
+    <li> <a href="https://www.ntnu.edu/web/secassure/programme" target="_blank">Enhancing Security Assurance in Software Development: AI-based Vulnerable Code Detection with Static Analysis</a> in <i>SecAssure at 28th European Symposium on Research in Computer Security (ESORICS 2023)</i></li>   
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-37586-6_20" target="_blank">Android Code Vulnerabilities Early Detection Using AI-Powered ACVED Plugin</a> in <i>37th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec'23)</i></li>   
     <li> <a href="https://www.scitepress.org/Papers/2023/120604/120604.pdf" target="_blank">Labelled Vulnerability Dataset on Android Source Code (LVDAndro) to
 Develop AI-Based Code Vulnerability Detection Models</a> in <i>20th International security and cryptography conference (SECRYPT) - 2023</i></li>   
