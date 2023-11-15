@@ -79,7 +79,7 @@ Develop AI-Based Code Vulnerability Detection Models</a> in <i>20th Internationa
 </details>
 
 <details>
-  <summary><b><a style="cursor: pointer;">Human Factors in Security</a></b></summary>
+  <summary><b><a style="cursor: pointer;">Human-centred Security</a></b></summary>
   
   <ul>
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-05643-7_25" target="_blank">Replacing Human Input in Spam Email Detection Using Deep Learning</a> in <i>Artificial Intelligence in HCI: 3rd International Conference, AI-HCI - 2022</i></li>    
