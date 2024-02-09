@@ -115,7 +115,7 @@ Currently, <b>we are actively seeking PhD students</b> (self-funded) to work on 
 
 * **Effective Detection of Cyber-attacks against IoTs in Critical Infrastructures** ([Link](<https://github.com/cybersec-soc-rgu>))
 
-* **Protecting vehicles from cyber attacks : Context aware AI-based intrusion detection system to detect cyber attacks on the automotive CAN bus** ([Link](<https://github.com/cybersec-soc-rgu/LSTM_Word2Vec>))
+* **Protecting vehicles from cyber attacks : Context aware AI-based intrusion detection system to detect cyber attacks on the automotive CAN bus** ([Link-1](<https://github.com/cybersec-soc-rgu/CAN-MIRGU>), [Link-2](<https://github.com/cybersec-soc-rgu/LSTM_Word2Vec>))
 
 * **Identifying enhanced mechanisms to develop secure mobile applications** ([Link-1](<https://github.com/cybersec-soc-rgu/ACVED>), [Link-2](<https://github.com/cybersec-soc-rgu/LVDAndro>))
 
