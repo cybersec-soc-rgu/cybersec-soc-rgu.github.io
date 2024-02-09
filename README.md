@@ -126,6 +126,7 @@ Currently, <b>we are actively seeking PhD students</b> (self-funded) to work on 
 
 ## Oragainsed Conferences/ Workshops
 
+* **[Workshop on Security and Artificial Intelligence (SECAI) - 2024](<https://sites.google.com/view/secai2024>)** *Co-located with the [29 European Symposium on Research in Computer Security (ESORICS)](<https://www.esorics2024.org/>)*
 * **[Workshop on Security and Artificial Intelligence (SECAI) - 2023](<https://sites.google.com/view/secai2023>)** *Co-located with the [28 European Symposium on Research in Computer Security (ESORICS)](<https://www.esorics2023.org/>)*
 * **[Workshop on Artificial Intelligence and Cyber Security (AI-CyberSec) - 2021](<https://sites.google.com/view/ai-cybersec-2021/home>)** *Co-located with the [41st SGAI International Conference on Artificial Intelligence](<http://www.bcs-sgai.org/ai2021/>)*
 
