@@ -13,7 +13,7 @@ To make our research more accessible, we have organized our publications into ca
   <summary><b><a style="cursor: pointer;"><span id="IOTSec">IoT and Cyber Physical Systems Security</span></a></b></summary>
   
   <ul>
-    <li><a href="https://www.ndss-symposium.org/ndss-paper/auto-draft-482/" target="_blank">CAN-MIRGU: A Comprehensive CAN Bus Attack Dataset from Moving Vehicles for Intrusion Detection System Evaluation</a> in <i>Symposium on Vehicles Security and Privacy (VehicleSec) in NDSS - 2024</i> <a href="https://www.youtube.com/watch?v=CufiACr2Zs8" target="_blank">Watch Video</a></li>
+    <li><a href="https://www.ndss-symposium.org/ndss-paper/auto-draft-482/" target="_blank">CAN-MIRGU: A Comprehensive CAN Bus Attack Dataset from Moving Vehicles for Intrusion Detection System Evaluation</a> in <i>Symposium on Vehicles Security and Privacy (VehicleSec) in NDSS - 2024</i> <a href="https://www.youtube.com/watch?v=CufiACr2Zs8" target="_blank"> - Watch Video</a></li>
     <li><a href="https://doi.org/10.1016/j.jisa.2023.103570" target="_blank">Beyond vanilla: Improved autoencoder-based ensemble in-vehicle intrusion detection system</a> in <i>Journal of Information Security and Applications - 2023</i></li>
     <li><a href="https://doi.org/10.1016/j.cose.2023.103388" target="_blank">Towards a Robust, Effective and Resource Efficient Machine Learning Technique for IoT Security Monitoring</a> in <i>Computers & Security - 2023</i></li>
     <li><a href="https://doi.org/10.1109/ICPS58381.2023.10128064" target="_blank">Bayesian Optimized Autoencoder for Predictive Maintenance of Smart Packaging Machines</a> in <i>6th International Conference on Industrial Cyber-Physical Systems (ICPS) - 2023</i></li>
