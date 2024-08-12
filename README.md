@@ -104,6 +104,8 @@ Currently, <b>we are actively seeking PhD students</b> (self-funded) to work on 
 
 ## Completed/ Ongoing Research Projects
 
+* **Cybersecurity Assessment of Energy Grids using Digital Twins for EV Applications -  Funded under Building a Secure Resilient World via EPSRC and delivered by Innovate UK**
+
 * **AR-Mini: AI-powered renewable mini-grids for rural regions in Sri Lanka -  [RGU and Alta Vision LTD](<https://app.dimensions.ai/details/grant/grant.13253246>)**
 
 * **AI-Powered Automated vulnerability anti-patterns system for software security (TRL 5-7 prototype development) -  [CyberShell Solutions](<https://cybershellsol.com>)**
