@@ -66,6 +66,7 @@ To make our research more accessible, we have organized our publications into ca
   <summary><b><a style="cursor: pointer;">Software Security</a></b></summary>
   
   <ul>
+    <li> <a href="https://www.ntnu.edu/secassure" target="_blank">Assuring Privacy of AI-Powered Community Driven Android Code Vulnerability Detection</a> in <i>SecAssure at 29th European Symposium on Research in Computer Security (ESORICS 2024)</i></li>  
     <li> <a href="https://doi.org/10.1016/j.jisa.2024.103741" target="_blank">Defendroid: Real-time Android code vulnerability detection via blockchain federated neural network with XAI</a> in <i>Journal of Information Security and Applications - 2024</i></li>   
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-54129-2_25" target="_blank">FedREVAN: Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI</a> in <i>WASP at 28th European Symposium on Research in Computer Security (ESORICS 2023)</i></li>   
     <li> <a href="https://link.springer.com/chapter/10.1007/978-3-031-54129-2_20" target="_blank">Enhancing Security Assurance in Software Development: AI-based Vulnerable Code Detection with Static Analysis</a> in <i>SecAssure at 28th European Symposium on Research in Computer Security (ESORICS 2023)</i></li>   
