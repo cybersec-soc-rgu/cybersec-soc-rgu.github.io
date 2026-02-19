@@ -135,6 +135,8 @@ Currently, <b>we are actively seeking PhD students</b> (self-funded) to work on 
 
 ## Oragainsed Conferences/ Workshops / Special Issues
 
+* **[Workshop on Advances in Malware Analysis and Software Security (AMASS) - 2026](<https://sites.google.com/view/amass2026>)** *Co-located with the [21 ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2026)](<https://asiaccs2026.cse.iitkgp.ac.in/>)*
+* **[Workshop on Security and Artificial Intelligence (SECAI) - 2025](<https://sites.google.com/view/secai2025>)** *Co-located with the [30 European Symposium on Research in Computer Security (ESORICS)](<https://www.esorics2025.org/>)*
 * **[Workshop on Security and Artificial Intelligence (SECAI) - 2024](<https://sites.google.com/view/secai2024>)** *Co-located with the [29 European Symposium on Research in Computer Security (ESORICS)](<https://www.esorics2024.org/>)*
 * **[Special Issue in Advances in Security Countermeasures for Medical Sensor Networks](https://www.sciencedirect.com/journal/internet-of-things/about/call-for-papers#advances-in-security-countermeasures-for-medical-sensor-networks)** - *[Internet of Things](<https://www.sciencedirect.com/journal/internet-of-things>)*
 * **[Workshop on Security and Artificial Intelligence (SECAI) - 2023](<https://sites.google.com/view/secai2023>)** *Co-located with the [28 European Symposium on Research in Computer Security (ESORICS)](<https://www.esorics2023.org/>)*
